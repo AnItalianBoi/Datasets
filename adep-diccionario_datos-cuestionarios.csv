@@ -1,0 +1,144 @@
+﻿RECURSO,CUESTIONARIOS SIN DATOS PERSONALES,
+Variables,Pregunta,Codificación
+Sexo,Sexo,1. Hombre
+,,2. Mujer
+Edad,Edad de la persona,Númerico
+,,
+sint_1,1. Te molestaron cosas que usualmente no te molestan,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_2,2. No te sentiste con ganas de comer,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_3,3. Sentías que no podías quitarte de encima la tristeza aún con la ayuda de tu familia o amigos.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_4,4. Sentías que eras tan buena/bueno como cualquier otra persona,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_5,5. Tenías dificultad en mantener tu mente en lo que estabas haciendo.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_6,6. Te sentías deprimida/deprimido,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_7,7. Sentías que todo lo que hacías era un esfuerzo.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_8,8. Te sentías optimista sobre el futuro.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_9,9. Pensaste que tu vida había sido un fracaso.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_10,10. Te sentías con miedo.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_11,11. Tu sueño era inquieto.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_12,12. Estabas contenta/contento.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_13,13. Hablaste menos de lo usual.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_14,14. Te sentiste sola/solo.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_15,15. La gente no era amistosa.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_16,16. Disfrutaste de la vida.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_17,17. Pasaste ratos llorando.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_18,18. Te sentiste triste.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_19,19. Sentiste que no le caías bien a la gente.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+sint_20,20. No tenías ganas de hacer nada.,0. Raramente o ninguna vez 
+,,1. Alguna o pocas veces 
+,,2. Ocasionalmente o una buena parte del tiempo 
+,,3. La mayor parte o todo el tiempo
+,,
+fechaReg,Fecha de registro de las respuestas,Tipo fecha dia/mes/año
+,,
+RECURSO,DEMOGRAFICOS,
+Variable,Descripción,Codificación
+,,
+ID_USUARIO,Número de registro,
+ACTIVATOKEN,Activo/Inactivo,
+FECHA_REGISTRO,Fecha en la que el usuario se registro en la plataforma,Tipo Fecha formato dia/mes/año
+DG_1,1. ¿En dónde vives?,1. Ciudad de México
+,,2. Otro Lugar de la Republica Méxicana
+,,3. America Latina y Caribe
+,,4. Canadá y E.U
+,,5. Europa
+,,6. Otros continentes
+DG_2,2. Sexo,1. Hombre
+,,2. Mujer
+DG_3,3. ¿Cuál es tu edad?,Dato Númerico
+DG_4,4. ¿Cuál es tu estado civil?,1.- Soltera/o
+,,2. Unión libre
+,,3. Casada/o
+,,"4. Divorciada/o, separada/o, viudad/o"
+DG_5,5. ¿Tienes hijos?,0. No
+,,1. Si
+DG_6,6. ¿Cuál es tu ocupación?,1. Estudiante
+,,2. Hogar
+,,3. Profesionista independiente
+,,4. Empleado/o
+,,5. Desempleado/o
+,,6. Otros 
+DG_7,7. ¿Cuál es tu nivel de escolaridad?,1. Primaria
+,,2. Secundaria
+,,3. Preparatoria o bachillerato
+,,4. Licenciatura o equivalente
+,,5. Posgrado
+DG_8,8. ¿Has estado o estás actualmente en tratamiento psicológico o psiquiátrico por depresión?,"1. Si, actualmente"
+,,"2. Actualmente no, pero sí en el pasado"
+,,3. No
+Fecha_resp_DG,Fecha en la se respondieron las preguntas Demograficas (DG),Tipo Fecha formato dia/mes/año
